@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JJ Chang</h1>
-<h3 align="center">An undergraduate student UCI aspiring to become a full stack developer.</h3>
+<h3 align="center">An undergraduate student aspiring to become a full stack developer.</h3>
 
 - 🔭 I’m currently working on [pdf-feed](https://github.com/jjwithanr/pdf-feed)
 
