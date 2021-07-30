@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jjwithanr](https://github.com/jjwithanr)
 
-- 📝 I regularly write articles on [https://medium.com/@jjchang](https://medium.com/@jjchang)
+<!-- - 📝 I regularly write articles on [https://medium.com/@jjchang](https://medium.com/@jjchang) -->
 
 - 📫 How to reach me **jjchnag623@yahoo.com**
 
@@ -15,7 +15,7 @@
 
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
