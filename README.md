@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy (JJ) Chang</h1>
 <h3 align="center">An undergraduate student aspiring to become a full stack developer.</h3>
 
-- 🔭 I’m currently working on [study-deep](https://github.com/jjwithanr/study-deep)
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jjwithanr](https://github.com/jjwithanr)
