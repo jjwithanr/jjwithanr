@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy (JJ) Chang</h1>
-<h3 align="center">An undergraduate student aspiring to become a full stack developer.</h3>
+<h3 align="center">A recent graduate from UC Irvine aspiring to become a full stack developer.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript.**
 
