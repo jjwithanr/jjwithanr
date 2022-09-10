@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy (JJ) Chang</h1>
 <h3 align="center">A recent graduate from UC Irvine aspiring to become a full stack developer.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jjwithanr](https://github.com/jjwithanr)
-
-<!-- - 📝 I regularly write articles on [https://medium.com/@jjchang](https://medium.com/@jjchang) -->
-
-- ⚡ Fun fact **I love animals; I've always had multiple pets growing up!**
-
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
