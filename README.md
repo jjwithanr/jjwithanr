@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Chang</h1>
-<h3 align="center">A recent graduate from UC Irvine aspiring to become a full stack developer.</h3>
+<h3 align="center">Current Georiga Tech OMSCS student, full-time full stack web developer, UC Irvine alumnus.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
